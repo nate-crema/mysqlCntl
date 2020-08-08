@@ -2,15 +2,15 @@
   "name": "mysqlcntl",
   "version": "1.0.0",
   "description": "Control module of 'mysql'",
-  "main": "index.js",
+  "main": "/lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "mysql"
   ],
-  "author": "© 2020 nate.crema",
-  "license": "MIT",
+  "author": "nate.crema",
+  "license": "MPL",
   "dependencies": {
     "mysql": "^2.18.1"
   }
